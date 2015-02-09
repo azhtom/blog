@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "azhtom",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"azhtom","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"Azhtom BLOG","url":"http://azhtom.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://azhtom.github.io/blog/themes/Casper"}}
